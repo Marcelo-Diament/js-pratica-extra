@@ -9,6 +9,5 @@
         </section>
     </main>
    <?php require_once("./inc/footer.php"); ?>
-   <script src="assets/js/fotos.js"></script>
 </body>
 </html>
